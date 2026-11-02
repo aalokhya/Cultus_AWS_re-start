@@ -52,7 +52,7 @@ To launch a Linux virtual machine on Amazon EC2, configure the instance, and ins
 ![Output](screenshots/linux-boot.png)
 
 ### Instance 
-![Instance](screenshots/Apache Service Status.png)
+![Instance](screenshots/a1.png)
 
 ## 8. Result
 Successfully launched an Amazon Linux 2023 EC2 instance and installed the Apache HTTP Server using automated startup configuration.
