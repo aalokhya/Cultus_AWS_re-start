@@ -9,7 +9,7 @@ To launch a Linux virtual machine on Amazon EC2 and establish a secure remote co
 - AWS Management Console
 - Amazon Linux 2
 - PuTTY
-- SSH (Secure Shell)
+- SSH (Secure socket Shell)
 - SSH Key Pair (.ppk)
 
 ## 4. Implementation Steps
@@ -50,9 +50,6 @@ To launch a Linux virtual machine on Amazon EC2 and establish a secure remote co
 
 ### PuTTY Configuration
 ![PuTTY Configuration](screenshots/putty-configuration.png)
-
-### SSH Linux Terminal
-![SSH Linux Terminal](screenshots/ssh-linux-terminal.png)
 
 ### Command Execution Output
 ![Linux Command Output](screenshots/output.png)
