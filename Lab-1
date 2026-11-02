@@ -1,12 +1,18 @@
-# AWS EC2 Linux Server Setup and Remote Access Using PuTTY (SSH)
-
 ## 1. Lab Name
 AWS EC2 – Linux Server Setup and Remote Access Using PuTTY
 
 ## 2. Objective
 To launch a Linux virtual machine on Amazon EC2 and establish a secure remote connection from a Windows computer using PuTTY and SSH.
 
-## 3. Implementation Steps
+## 3. Technologies & Tools Used
+- AWS EC2
+- AWS Management Console
+- Amazon Linux 2
+- PuTTY
+- SSH (Secure Shell)
+- SSH Key Pair (.ppk)
+
+## 4. Implementation Steps
 1. Started the AWS Sandbox environment.
 2. Accessed the AWS Management Console.
 3. Launched a Linux EC2 instance.
@@ -37,15 +43,34 @@ To launch a Linux virtual machine on Amazon EC2 and establish a secure remote co
 - Troubleshooting and maintaining cloud-based systems.
 - Supporting DevOps and deployment activities.
 
-## 7. Result
+## 7. Screenshots
+
+### EC2 Instance
+![EC2 Instance](screenshots/ec2-instance.png)
+
+### PuTTY Configuration
+![PuTTY Configuration](screenshots/putty-configuration.png)
+
+### SSH Linux Terminal
+![SSH Linux Terminal](screenshots/ssh-linux-terminal.png)
+
+### Command Execution Output
+![Linux Command Output](screenshots/output.png)
+
+### Process
+![Flow Diagram](screenshots/flow.png)
+
+## 8. Result
 Successfully established an SSH connection from a Windows computer to a Linux EC2 instance hosted on AWS.
 
-## 8. Key Learning
+Gained hands-on experience with:
+- EC2 instance management.
+- SSH-based remote server access.
+- Key-pair authentication.
+- PuTTY configuration.
+- Basic Linux command execution.
+
+## 9. Key Learning
 Understood how cloud-based Linux servers can be accessed and managed remotely using SSH without physically accessing the server.
 
-<!-- Example:
-![EC2 Instance](screenshots/ec2-instance.png)
-![PuTTY Configuration](screenshots/putty-configuration.png)
-![Linux Terminal](screenshots/ssh-linux-terminal.png)
-![Output](screenshots/Output.png)
--->
+
