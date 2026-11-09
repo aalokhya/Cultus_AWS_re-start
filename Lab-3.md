@@ -84,14 +84,7 @@ Pressed `q` to exit the manual page.
 ## Outcome
 Learned to access an Amazon Linux EC2 instance using SSH through PuTTY and explore Linux command documentation using the `man` command.
 
-## Cleanup
-Ended the Vocareum lab after completing the exercises and confirmed resource deletion.
-
 ## Screenshots
-Add your practical screenshots in the `screenshots/` folder.
+![Linux man command](screenshots/Screenshot%202026-11-09%20203157.png)
 
-1. Lab Started
-2. SSH Credentials (sensitive details hidden)
-3. PuTTY Configuration (sensitive details hidden)
-4. Successful Linux Login
-5. Linux Manual Pages (`man man`) 
+
