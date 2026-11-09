@@ -46,18 +46,6 @@ Executed the following command:
 ```bash
 man man
 ```
-
-Explored the important sections of Linux manual pages:
-
-- NAME
-- SYNOPSIS
-- DESCRIPTION
-- OVERVIEW
-- EXAMPLES
-- FILES
-- OPTIONS
-- SEE ALSO
-
 Pressed `q` to exit the manual page.
 
 ### Step 6: Practice Basic Linux Commands
@@ -72,14 +60,6 @@ Pressed `q` to exit the manual page.
 | `uname -a` | Display system information |
 | `clear` | Clear terminal screen |
 | `man ls` | View the manual page for ls |
-
-## Key Learnings
-- Understood Amazon Machine Images (AMI).
-- Learned how to connect to a Linux EC2 instance remotely using SSH.
-- Understood SSH authentication using private keys.
-- Learned PuTTY configuration on Windows.
-- Explored Linux manual pages.
-- Practiced basic Linux commands.
 
 ## Outcome
 Learned to access an Amazon Linux EC2 instance using SSH through PuTTY and explore Linux command documentation using the `man` command.
