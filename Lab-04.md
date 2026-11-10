@@ -43,24 +43,16 @@ The lab was performed using an Amazon Linux EC2 instance accessed through SSH.
 
 
 ## Screenshots
-## Screenshots
 
-### 1. Basic System Information
-![Basic System Information](screenshots/Screenshot%202026-11-10%20163958.png)
+### 1. Creating Linux Users
+![Creating Linux Users](screenshots/Screenshot%202026-11-10%20220636.png)
 
-### 2. Logged-in User Information
-![Logged-in User Information](screenshots/Screenshot%202026-11-10%20164416.png)
+### 2. Creating Linux Groups
+![Creating Linux Groups](screenshots/Screenshot%202026-11-10%20220658.png)
 
-### 3. Date and Time Commands
-![Date and Time Commands](screenshots/Screenshot%202026-11-10%20164427.png)
+### 3. Assigning Users to Groups
+![Assigning Users to Groups](screenshots/Screenshot%202026-11-10%20220714.png)
 
-### 4. Calendar Commands
-![Calendar Commands](screenshots/Screenshot%202026-11-10%20164539.png)
+### 4. User Login and Security Logs
+![User Login and Security Logs](screenshots/Screenshot%202026-11-10%20220722.png)
 
-
-
-
-
-Once uploaded, your GitHub repository will demonstrate practical Linux command-line experience alongside your EC2 lab.
-
-We can use the same README + screenshots format for every upcoming AWS lab.
