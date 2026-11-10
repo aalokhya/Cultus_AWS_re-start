@@ -43,8 +43,19 @@ The lab was performed using an Amazon Linux EC2 instance accessed through SSH.
 
 
 ## Screenshots
+## Screenshots
 
-Screenshots captured during the lab execution are available in the `screenshots/` folder.
+### 1. Basic System Information
+![Basic System Information](screenshots/Screenshot%202026-11-10%20163958.png)
+
+### 2. Logged-in User Information
+![Logged-in User Information](screenshots/Screenshot%202026-11-10%20164416.png)
+
+### 3. Date and Time Commands
+![Date and Time Commands](screenshots/Screenshot%202026-11-10%20164427.png)
+
+### 4. Calendar Commands
+![Calendar Commands](screenshots/Screenshot%202026-11-10%20164539.png)
 
 
 
