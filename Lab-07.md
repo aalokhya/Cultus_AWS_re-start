@@ -174,10 +174,10 @@ CompanyA/
 ## Screenshots
 
 ### 1. Creating Directories and Files
-![Creating Directories and Files](../screenshots/Screenshot%202026-11-12%20202513.png)
+![Creating Directories and Files](screenshots/Screenshot%202026-11-12%20202513.png)
 
 ### 2. Copying, Moving, and Managing Files
-![Copying, Moving, and Managing Files](../screenshots/Screenshot%202026-11-12%20202521.png)
+![Copying, Moving, and Managing Files](screenshots/Screenshot%202026-11-12%20202521.png)
 
 ## Conclusion
 Successfully practiced Linux file system operations and learned how to organize, copy, move, and delete files and directories using command-line instructions.
