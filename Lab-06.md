@@ -104,13 +104,13 @@ Reopened the file to verify the saved content.
 ## Screenshots
 
 ### 1. Vim Editor Practice
-![Vim Editor Practice](../screenshots/Screenshot%202026-11-12%20201331.png)
+![Vim Editor Practice](screenshots/Screenshot%202026-11-12%20201331.png)
 
 ### 2. Editing and Saving Files
-![Editing and Saving Files](../screenshots/Screenshot%202026-11-12%20201354.png)
+![Editing and Saving Files](screenshots/Screenshot%202026-11-12%20201354.png)
 
 ### 3. Nano Editor Practice
-![Nano Editor Practice](../screenshots/Screenshot%202026-11-12%20201403.png)
+![Nano Editor Practice](screenshots/Screenshot%202026-11-12%20201403.png)
 
 ## Conclusion
 Successfully learned how to create, edit, save, and manage text files using Vim and Nano in a Linux environment.
