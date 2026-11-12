@@ -101,11 +101,16 @@ Saved the file using `Ctrl + O`, pressed `Enter`, and exited using `Ctrl + X`.
 
 Reopened the file to verify the saved content.
 
-## Key Learnings
-- Practiced the Vim text editor.
-- Learned how to create and edit files in Linux.
-- Understood the difference between saving and exiting without saving.
-- Practiced basic Nano editor commands.
+## Screenshots
+
+### 1. Vim Editor Practice
+![Vim Editor Practice](../screenshots/Screenshot%202026-11-12%20201331.png)
+
+### 2. Editing and Saving Files
+![Editing and Saving Files](../screenshots/Screenshot%202026-11-12%20201354.png)
+
+### 3. Nano Editor Practice
+![Nano Editor Practice](../screenshots/Screenshot%202026-11-12%20201403.png)
 
 ## Conclusion
 Successfully learned how to create, edit, save, and manage text files using Vim and Nano in a Linux environment.
